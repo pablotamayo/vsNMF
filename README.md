@@ -16,7 +16,8 @@ The field of oncology has experienced significant advancements in novel therapie
 Requires Python ≥3.11 
 
 ## Usage
-``` variable sparsity Non-Negative Matrix Factorization
+```
+#variable sparsity Non-Negative Matrix Factorization
 
 vsNMF(V,
       rdim,
@@ -31,7 +32,8 @@ vsNMF(V,
       verbose = True,
       log_file_path = "../log_file.txt"):MCI(x, y)
 ```
-``` variable sparsity Non-Negative Tensor Factorization
+```
+#variable sparsity Non-Negative Tensor Factorization
 
 vsNTF(tensor,
       rank,
