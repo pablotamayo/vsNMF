@@ -1,6 +1,6 @@
 
 <h2 > 
-The Multi-scale Copula Index (MCI): a new information-theoretic measure of association and its applications in functional cancer genomicsVariable sparsity non-negative matrix (vsNMF) and tensor factorization (vsNTF) algorithms and their applications in cancer genomics
+Variable sparsity non-negative matrix (vsNMF) and tensor factorization (vsNTF) algorithms and their applications in cancer genomics
 
 
 </h2>
